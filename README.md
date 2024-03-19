@@ -1,8 +1,9 @@
 # Tutorials-Homework-Notebooks
 This repository keeps the tutorial notebooks which you will be using for your HW. The notebooks will largely be run on Google Colab.
 
-- Original Author: Bhargav Srinviasa Desikan
-- Editors and Reviewers: James Evans, Junsol Kim
+- Authors
+  - Original Author: Bhargav Srinviasa Desikan
+  - Editors and Reviewers: James Evans, Junsol Kim
 
 - Schedule
   - Week 1. Mar. 22: Deep Learning?
