@@ -9,9 +9,8 @@ While it is not necessary for you to fork this repository or download the static
 
 Notebook 1
 
-https://colab.research.google.com/github/k-partha/Tutorials-Homework-Notebooks/blob/WEEK_2/week%202/tutorial_1_deep_neural_architectures.ipynb
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%202/tutorial_1_deep_neural_architectures.ipynb
 
 Notebook 2
 
-https://colab.research.google.com/github/k-partha/Tutorials-Homework-Notebooks/blob/WEEK_2/week%202/tutorial_2_deep_neural_training_regularisation_optimisation.ipynb
-
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%202/tutorial_2_deep_neural_training_regularisation_optimisation.ipynb
