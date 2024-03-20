@@ -9,8 +9,8 @@ While it is not necessary for you to fork this repository or download the static
 
 Notebook 1
 
-https://colab.research.google.com/drive/1agH4q61uIgSGMMoVzMw4Nxh3OXVjvG8V?usp=sharing
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%201/tutorial_1_machine_learning_pipelines.ipynb
 
 Notebook 2
 
-https://colab.research.google.com/drive/1lrsE_4MskHX9cJ53zxXMPxVvH7CjW6nZ?usp=sharing
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%201/tutorial_2_intro_neural_nets.ipynb
