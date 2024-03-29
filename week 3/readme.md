@@ -8,14 +8,14 @@ In Week 3, you turn in **two** notebooks. Submit Notebook 1 (required). Along wi
 
 * Google Colab Notebooks:
 
-Notebook 1: Sampling (Required)
+Notebook 1: Sampling **(Required)**
 
 https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%203/Tutorial_1_sampling_human_learning.ipynb
 
-Notebook 2: Active Learning (Choose either 2 or 3)
+Notebook 2: Active Learning **(Choose either 2 or 3)**
 
 https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%203/Tutorial_2_active_learning.ipynb
 
-Notebook 3: Causal Inference (Choose either 2 or 3)
+Notebook 3: Causal Inference **(Choose either 2 or 3)**
 
 https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%203/Tutorial_3_intro_causal_inference.ipynb
