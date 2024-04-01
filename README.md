@@ -8,7 +8,7 @@ This repository keeps the tutorial notebooks which you will be using for your HW
 - Schedule
   - Week 1. Mar. 22: Deep Learning?
   - Week 2. Mar. 29: Deep Architectures, Training & Taming
-  - Week 3. Apr. 5: Sampling, Bias, and Representativeness in Deep Learning
+  - Week 3. Apr. 5: Sampling, Bias, and Causal Inference with Deep Learning
   - Week 4: Apr. 12: Text Learning
   - Week 5. Apr. 19: Transformers and Social Simulation
   - Week 6. Apr. 26: Auto-encoders, Network & Table Learning
