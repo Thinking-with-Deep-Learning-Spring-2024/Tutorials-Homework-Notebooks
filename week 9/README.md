@@ -9,6 +9,8 @@ While it is not necessary for you to fork this repository or download the static
 
 Notebook 1
 
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%209/Tutorial_1_intro_reinforcement_learning.ipynb
 
 Notebook 2
 
+https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%209/Tutorial_2_deep_reinforcement_learning.ipynb
